@@ -1,0 +1,94 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=PPL Assignment (RIT2015027)
+
+[WINDOWS]
+main="PPL Assignment (RIT2015027)","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_boy___geeks_8h_source.html
+_boy___generous_8h_source.html
+_boy___miser_8h_source.html
+_couples_8h_source.html
+_gifts_8h_source.html
+_girl___choosy_8h_source.html
+_girl___desperate_8h_source.html
+_girl___normal_8h_source.html
+give__gifts_8h_source.html
+make__couples_8h_source.html
+_boy___geeks_8cpp.html
+_boy___geeks_8h.html
+_boy___generous_8cpp.html
+_boy___generous_8h.html
+_boy___miser_8cpp.html
+_boy___miser_8h.html
+_couples_8cpp.html
+_couples_8h.html
+_details___generator_8cpp.html
+_gift___generator_8cpp.html
+_gifts_8cpp.html
+_gifts_8h.html
+_girl___choosy_8cpp.html
+_girl___choosy_8h.html
+_girl___desperate_8cpp.html
+_girl___desperate_8h.html
+_girl___normal_8cpp.html
+_girl___normal_8h.html
+give__gifts_8cpp.html
+give__gifts_8h.html
+make__couples_8cpp.html
+make__couples_8h.html
+question1_8cpp.html
+question2_8cpp.html
+_r_e_a_d_m_e_8md.html
+md__h_1_ppl__r_e_a_d_m_e.html
+class_boy___geeks.html
+class_boy___geeks-members.html
+class_boy___generous.html
+class_boy___generous-members.html
+class_boy___miser.html
+class_boy___miser-members.html
+class_couples.html
+class_couples-members.html
+class_gifts.html
+class_gifts-members.html
+class_girl___choosy.html
+class_girl___choosy-members.html
+class_girl___desperate.html
+class_girl___desperate-members.html
+class_girl___normal.html
+class_girl___normal-members.html
+classgive__gifts.html
+classgive__gifts-members.html
+classmake__couples.html
+classmake__couples-members.html
+dir_84e7a5db4faa3bb3efa0834f14a17625.html
+dir_1840d02f375ab0c38e45e4ebc6e70431.html
+index.html
+pages.html
+annotated.html
+classes.html
+functions.html
+functions_func.html
+files.html
+globals.html
+globals_func.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
