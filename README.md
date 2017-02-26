@@ -6,8 +6,7 @@
 ###Terminal
 
 #DOCUMENTATION:
-##Refer documentation1 for documentation of 1st question
-##Refer documentation2 for documentation of 2nd question
+###Refer "index.html" in "Documentation" folder for documentation.
 
 #COMPILATION:
 For question 1,use : 
