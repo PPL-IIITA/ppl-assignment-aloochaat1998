@@ -6,7 +6,7 @@
 ### Terminal
 
 # DOCUMENTATION:
-### Refer "index.html" in "Documentation" folder for documentation.
+### Refer "index.html" inside "html" folder inside "Documentation" folder for documentation.
 
 # COMPILATION and OUTPUT:
 For question 3,use : 
