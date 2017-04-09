@@ -83,7 +83,7 @@ void make_couples::extract(std::vector<Boy_Miser> &mb, std::vector<Boy_Geeks> &g
             if((*it1).get_attraction()>=req_attraction && (*it1).get_budget()<=budget && (*it1).get_status()==0)
             {
                 (*it1).set_status();
-                std::cout<<"Boy is "<<(*it1).getname()<<" & girl is "<<name<<"\n";
+                std::cout<<"Girl is "<<(*it1).getname()<<" & boy is "<<name<<"\n";
                 output<<name<<" , "<<(*it1).getname()<<"\n";
                 out<< (*it1).getname() <<" , " << name << " , " <<(*it1).get_budget()<<" , "<<budget<<" , "<<(*it1).get_intelligence()<<" , "<<intelligence<<" , "<<(*it1).get_attraction()<<" , "<<attraction<<" , "<<"Girl Desperate , ";
                 if(type==1)
@@ -102,7 +102,7 @@ void make_couples::extract(std::vector<Boy_Miser> &mb, std::vector<Boy_Geeks> &g
             if((*it2).get_attraction()>=req_attraction && (*it2).get_budget()<=budget && (*it2).get_status()==0)
             {
                 (*it2).set_status();
-                std::cout<<"Boy is "<<(*it2).getname()<<" & girl is "<<name<<"\n";
+                std::cout<<"Girl is "<<(*it2).getname()<<" & Boy is "<<name<<"\n";
                 output<<name<<" , "<<(*it2).getname()<<"\n";
                 out<< (*it2).getname() <<" , " << name << " , " <<(*it2).get_budget()<<" , "<<budget<<" , "<<(*it2).get_intelligence()<<" , "<<intelligence<<" , "<<(*it2).get_attraction()<<" , "<<attraction<<" , "<< "Girl Normal , ";
                 if(type==1)
@@ -121,7 +121,7 @@ void make_couples::extract(std::vector<Boy_Miser> &mb, std::vector<Boy_Geeks> &g
             if((*it3).get_attraction()>=req_attraction && (*it3).get_budget()<=budget && (*it3).get_status()==0)
             {
                 (*it3).set_status();
-                std::cout<<"Boy is "<<(*it3).getname()<<" & girl is "<<name<<"\n";
+                std::cout<<"Girl is "<<(*it3).getname()<<" & boy is "<<name<<"\n";
                 output<<name<<" , "<<(*it3).getname()<<"\n";
                 out<< (*it3).getname() <<" , " << name << " , "<<(*it3).get_budget()<<" , "<<budget<<" , "<<(*it3).get_intelligence()<<" , "<<intelligence<<" , "<<(*it3).get_attraction()<<" , "<<attraction<<" , "<< "Girl Choosy , ";
                 if(type==1)
