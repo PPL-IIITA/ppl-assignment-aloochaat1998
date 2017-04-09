@@ -1,0 +1,29 @@
+\hypertarget{classBoy}{}\section{Boy Class Reference}
+\label{classBoy}\index{Boy@{Boy}}
+
+
+Inheritance diagram for Boy\+:
+% FIG 0
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+std\+::string {\bfseries name}\hypertarget{classBoy_add25b67f2c3dcd2804289d6aca0db1bc}{}\label{classBoy_add25b67f2c3dcd2804289d6aca0db1bc}
+
+\item 
+int {\bfseries attraction}\hypertarget{classBoy_a9795956eac53b9f3e37accce8f83d0af}{}\label{classBoy_a9795956eac53b9f3e37accce8f83d0af}
+
+\item 
+int {\bfseries budget}\hypertarget{classBoy_a3b755250e77f892967872c7eb4c26685}{}\label{classBoy_a3b755250e77f892967872c7eb4c26685}
+
+\item 
+int {\bfseries intelligence}\hypertarget{classBoy_a10f24ab1e3dbee6fac2a122c76954fa5}{}\label{classBoy_a10f24ab1e3dbee6fac2a122c76954fa5}
+
+\item 
+int {\bfseries req\+\_\+attraction}\hypertarget{classBoy_a065d88c2331015595b8b6c0a77cdc897}{}\label{classBoy_a065d88c2331015595b8b6c0a77cdc897}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+Boy.\+h\end{DoxyCompactItemize}

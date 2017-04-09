@@ -1,1 +1,0 @@
-g++ question4.cpp Boy_Generous.cpp Boy_Miser.cpp Boy_Geeks.cpp Girl_Normal.cpp Girl_Desperate.cpp Girl_Choosy.cpp make_couples.cpp Couples.cpp Gifts.cpp give_gifts.cpp
