@@ -36,7 +36,6 @@ int main()
 	{
 		std::cout <<it->get_b_name() << " " << it->get_g_name() << " "<< it->get_happiness()<<"\n";
 		names.push_back(it->get_b_name());
-		c.erase(it);
 		it++;
 	}
 	std::cout<<"\nPerforming Break-ups\n";
