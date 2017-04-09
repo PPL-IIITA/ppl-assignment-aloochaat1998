@@ -1,15 +1,10 @@
-#ifndef GIRL_CHOOSY_H_
-#define GIRL_CHOOSY_H_
+#ifndef GIRL_Choosy_H_
+#define GIRL_Choosy_H_
 #include <bits/stdc++.h>
+#include "Girl.h"
 
-class Girl_Choosy 
+class Girl_Choosy : private Girl 
 {
-    private:
-        std::string name;
-        int attraction;
-        int budget;
-        int intelligence;
-        int status;
     public:
         Girl_Choosy(std::string, int, int, int, int);
         std::string getname();

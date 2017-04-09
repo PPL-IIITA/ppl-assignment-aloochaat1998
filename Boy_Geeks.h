@@ -1,15 +1,10 @@
+#include <string>
+#include "Boy.h"
 #ifndef Boy_Geeks_H_
 #define Boy_Geeks_H_
-#include <bits/stdc++.h>
 
-class Boy_Geeks 
+class Boy_Geeks: private Boy 
 {
-    private:
-        std::string name;
-        int attraction;
-        int budget;
-        int intelligence;
-        int req_attraction;
     public:
         Boy_Geeks(std::string, int, int, int, int);
         std::string getname();

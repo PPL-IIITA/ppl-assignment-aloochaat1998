@@ -48,7 +48,6 @@ int main()
 		it++;
 	}
     //to print gift log file.
-	int x=0;
 	std::ifstream input2;
 	input2.open("log.csv", std::ios::in);
 	while(!input2.eof()) 
@@ -60,9 +59,6 @@ int main()
 		std::string a;
 		input2 >> time >> a >> b_name >> a >> g_name >> a >> gift;
 //		std::cout << time <<" " << b_name << " " << g_name << " " << gift << "\n";
-		x++;
-	//	if(x==50)
-		//	exit(0);
 	}
 	return 0;
 }
