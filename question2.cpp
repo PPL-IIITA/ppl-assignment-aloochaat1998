@@ -42,7 +42,7 @@ int main()
 	it = c.begin();
 	temp = k;
 	std::cout <<"\n";
-	std::cout << k <<" MOST compatibility COUPLES:\n";
+	std::cout << k <<" MOST COMPATIBLE COUPLES:\n";
 	while(temp-- && it != c.end()) {
 		std::cout <<it->get_b_name() << " " << it->get_g_name() <<" " << it->get_compatibility()<< "\n";
 		it++;
